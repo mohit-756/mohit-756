@@ -1,130 +1,139 @@
-<h1 align="center">Hi 👋, I'm Mohit Cheedella</h1>
-
-<h3 align="center">
-Final Year B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Full Stack Developer
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohit+Cheedella;AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+AI-Driven+Solutions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=AI+%26+ML+Enthusiast;Building+AI+Driven+Applications;Full+Stack+Developer;Always+Learning+New+Technologies" />
+  <a href="https://www.linkedin.com/in/mohit-cheedella/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mohit-756.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohit-756&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=mohit-756&label=Profile%20Views&color=5b5bf6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Final-year B.Tech student specializing in AI & ML
-
-💡 Passionate about Artificial Intelligence, NLP and building impactful applications
-
-🌱 Currently learning:
-- Advanced Python
-- DevOps concepts
-- AI system development
-- Full Stack development
-
-🤝 Volunteer & Fellow at MAD (Make A Difference)
-
-⚡ Fun fact:
-I enjoy creating projects that combine AI with real-world problems
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <p>🎓 <strong>Final-year B.Tech Student</strong> specializing in <strong>Artificial Intelligence & Machine Learning</strong>.</p>
+      <p>💡 Passionate about leveraging <strong>Natural Language Processing (NLP)</strong>, deep learning, and robust engineering to build intelligent applications that solve real-world problems.</p>
+      <p>🤝 Proud Volunteer & Fellow at <strong>MAD (Make A Difference)</strong>, driving positive community impact.</p>
+      <p>⚡ <em>Fun Fact:</em> I love designing products where high-performing backend logic meets fluid, beautiful user experiences!</p>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🌱 Current Focus & Learning</h4>
+      <ul>
+        <li>Advanced Python & Optimization</li>
+        <li>Production DevOps & Cloud Pipelines</li>
+        <li>Large Language Models & Agentic Workflows</li>
+        <li>Full-Stack System Architectures</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Toolbox
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+<div align="center">
+  
+  ### 💻 Languages
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+  ### 🎨 Frontend & Design
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Database
+  ### ⚙️ Backend & Systems
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4CFFB4)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+  ### 🔧 Tools & Workflows
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 Interview Automation & Proctoring System
-AI-powered interview platform using NLP and ML concepts
-
-🔗 https://github.com/mohit-756/interview_bot_project_1
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Interview Automation & Proctoring</h3>
+      <p>An AI-powered smart interview platform utilizing Natural Language Processing and Machine Learning to streamline candidate evaluations and ensure integrity.</p>
+      <p>
+        <a href="https://github.com/mohit-756/interview_bot_project_1">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-purple?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Learning Companion</h3>
+      <p>A local-first AI-driven study assistant featuring instant summarizations, smart quizzes, interactive flashcards, and a localized RAG-based note chat.</p>
+      <p>
+        <a href="https://github.com/mohit-756/AI-Learning-Companion">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-teal?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Ticket Booking System</h3>
+      <p>A feature-rich full-stack application built to deliver smooth real-time seat reservation, search optimization, and secure billing workflows.</p>
+      <p>
+        <a href="https://github.com/mohit-756/MovieTicketBooking-main">
+          <img src="https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h4>✨ Always Building More...</h4>
+      <p>Check out my repositories for new AI experiments and web apps!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 AI Learning Companion
-Local-first AI study assistant with summaries, quizzes, flashcards and RAG-based note chat
-
-🔗 https://github.com/mohit-756/AI-Learning-Companion
-
----
-
-### 🎬 Movie Ticket Booking System
-A full-stack movie booking application
-
-🔗 https://github.com/mohit-756/MovieTicketBooking-main
-
----
-
-## 📊 GitHub Stats
+## 📊 Developer Insights & Trophies
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohit-756&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-756&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-756&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mohit-756&theme=onedark&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohit-756&theme=onedark"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-756&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-756&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mohit-cheedella/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://mohit-756.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-756&layout=compact&theme=tokyonight&border_radius=10" width="70%" />
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Building ideas into reality through AI & technology
+  ⭐ "Turning complex datasets and AI algorithms into fluid user realities."
 </h3>
+<p align="center">
+  © 2026 Mohit Cheedella. Crafted with ⚡ and ❤️
+</p>
